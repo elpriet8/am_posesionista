@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">am_posesionista</string>
+    <string name="label_name">Nombre</string>
+    <string name="label_price">Precio</string>
+    <string name="label_serialnum">No. Serie</string>
+    <string name="label_fecha">Fecha</string>
+    <string name="btn_fecha">Modificar Fecha</string>
+    <string name="top_text">Add</string>
+    <string name="detalle_cosa">Detalle de Cosa</string>
+</resources>

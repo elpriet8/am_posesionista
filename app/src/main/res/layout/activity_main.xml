@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id = "@+id/fragment_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <!--   Fragment previamente declarado, Se implementa adelante fragment más generico
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragmentContainerView"
+        android:name="com.example.am_posesionista.CosaFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout="@layout/cosa_fragment"
+        tools:layout_editor_absoluteX="61dp" />
+      !-->
+
+    <!-- Se hará xml que acepte cualquier tipo de fragment, no solo cosa fragment !-->
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
